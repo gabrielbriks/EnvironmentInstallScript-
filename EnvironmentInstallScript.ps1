@@ -26,7 +26,7 @@ else{
 
 }
 
-cinst -y vlc #visualstudio2019enterprise #sql-server-management-studio #git #googlechrome #firefox #notepadplusplus.install #lightshot #server-jre10 #python3 
+cinst -y vlc git googlechrome firefox notepadplusplus.install lightshot server-jre10 python3 googlechrome vscode nodejs winrar  
 
 Write-Host "PACOTES INSTALADOS: "
 Write-Host " ";
