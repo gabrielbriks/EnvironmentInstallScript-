@@ -26,7 +26,7 @@ else{
 
 }
 
-cinst -y vlc git googlechrome firefox notepadplusplus.install lightshot server-jre10 python3 googlechrome vscode nodejs winrar figma lunacy vscode robo3t spotify insomnia-rest-api-client sublimetext3
+cinst -y vlc git googlechrome firefox notepadplusplus.install lightshot server-jre10 python3 googlechrome vscode nodejs-lts winrar figma lunacy vscode robo3t spotify insomnia-rest-api-client sublimetext3
 
 Write-Host "PACOTES INSTALADOS: "
 Write-Host " ";
