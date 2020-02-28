@@ -37,7 +37,7 @@ choco list -l
 Write-Host " ";
 Write-Host " ";
 Write-Host " ";
-Write-Host "           " " By GitHub - GabrielBriks" "                         Grato em ajudar...";
+Write-Host "           " " By GabrielBriks - @GitHub" "                         Grato em ajudar...";
 
 
 Read-host
