@@ -12,6 +12,7 @@ Script for Instaling programs intials of enviroment of developement JavaScript, 
 - [Google Chrome](https://chocolatey.org/packages?q=googlechrome) 
 - [FireFox](https://chocolatey.org/packages?q=firefox)
 - [VS Code](https://chocolatey.org/packages?q=vscode)
+- [Yarn](https://chocolatey.org/packages/yarn)
 - [SublimeText 3](https://chocolatey.org/packages?q=sublimetext3)
 - [NotePad++](https://chocolatey.org/packages?q=notepadplusplus)
 - [Git](https://chocolatey.org/packages?q=git)
